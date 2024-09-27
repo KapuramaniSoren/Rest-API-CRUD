@@ -1,0 +1,45 @@
+[
+  {
+    "id": "csdasd129812-8768-sada878786",
+    "title": "the avengers",
+    "year": "2024",
+    "genre": "action, adventure, fantasy",
+    "rating": "9.5"
+  },
+  {
+    "id": "21xxcsds-8787-8asdasbad9",
+    "title": "spiderman",
+    "year": "2021",
+    "genre": "biogrpahy",
+    "rating": "7.9"
+  },
+  {
+    "id": "43dsfds-0000-1e3s334",
+    "title": "avatar 2",
+    "year": "2019",
+    "genre": "8.5",
+    "rating": "9.0"
+  },
+  {
+    "name": "Add your name in the body",
+    "id": "dec18a93-b15f-4002-a92b-f0614fbeed44"
+  },
+  {
+    "name": "Add your name in the body",
+    "id": "e7fb5038-1ffc-4859-b736-a01b91caddfe"
+  },
+  {
+    "id": "ed28c191-6e3b-434b-b13f-310c7985efa8",
+    "title": "cars 2",
+    "year": "2017",
+    "genre": "animated movie, funny , friendship",
+    "rating": "10"
+  },
+  {
+    "title": "cars 2",
+    "year": "2017",
+    "genre": "animated movie",
+    "rating": "10",
+    "id": "f1341795-8a6f-4ce0-83af-61d75ba28d6d"
+  }
+]
